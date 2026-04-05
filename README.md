@@ -82,15 +82,6 @@
 
 ---
 
-## 📊 Estatísticas GitHub
-
-<div align="center">
-  <img height="160" src="https://github-readme-stats.vercel.app/api?username=henriquebaz26&show_icons=true&theme=default&hide_border=true&count_private=true" />
-  <img height="160" src="https://github-readme-stats.vercel.app/api/top-langs/?username=henriquebaz26&layout=compact&theme=default&hide_border=true" />
-</div>
-
----
-
 ## 📫 Contato
 
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/henrique-baz-023925301)
